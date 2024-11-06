@@ -1,7 +1,3 @@
-;Group Members:
-;Farooq Haider [22L-6637]
-;M Abdullah Azeem [22L-8227]
-
 [org 0x0100]
 jmp start
 
